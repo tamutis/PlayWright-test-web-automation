@@ -12,6 +12,7 @@ Antes de executar o teste automatizado, você precisa ter instalado o Node.js e 
 
 ## Estrutura
 projeto
+│
 ├── node_modules
 │   ├── (dependências do projeto)
 │   └── ...
@@ -24,9 +25,11 @@ projeto
 │   ├── fixture
 │   │   ├── task.model.ts
 │   │   └── task.json
+│   │
 │   ├── spec
 │   │   ├── tasks.spec.ts
 │   │   └── ...
+│   │
 │   └── support
 │       ├── pages
 │       │   ├── tasksPages.ts
@@ -42,6 +45,7 @@ projeto
 ├── package.json
 ├── README.md
 └── playwright.config.ts
+
 
 ## Instalação
 
