@@ -1,0 +1,11 @@
+{
+    "success": {
+        "name": "Comprar pastilhas dos freios"
+    },
+    "active": {
+        "name": "Comprar embreagem"
+    },
+    "completed": {
+        "name": "Comprar motor"
+    }
+}
