@@ -4,7 +4,9 @@ on:
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
-  workflow_dispatch:  
+  workflow_dispatch:
+  schedule:
+      - cron: "0 9,12,15,18,21 * * *"
 jobs:
   test:
     timeout-minutes: 60
