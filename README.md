@@ -46,6 +46,9 @@ projeto
 ├── package.json
 ├── README.md
 └── playwright.config.ts
+```
+.
+
 
 
 ## Instalação
@@ -55,8 +58,9 @@ projeto
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
+```
+.
 
-```shell script
 Install Node:
     npm install
 Install PlayWright:
