@@ -76,7 +76,7 @@ Executar os testes:
 npx playwright test
 ```
 
-## Gerando Relatório do Teste Executado
+## Gerando Relatório do Teste Executados
 
 Após a execução do teste automatizado, um relatório em HTML será gerado para facilitar a visualização dos resultados. O relatório é criado automaticamente e estará disponível na pasta reports após a conclusão do teste.
 
