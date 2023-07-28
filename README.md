@@ -98,8 +98,6 @@ Os testes serão executados nos seguintes horários todos os dias:
 - 6:00 PM
 - 9:00 PM
 
-Para verificar a configuração específica do fluxo de trabalho do GitHub Actions, consulte o arquivo [.github/workflows/test.yml](./.github/workflows/test.yml) neste repositório.
-
 
 
 
