@@ -1,4 +1,4 @@
-# Test Automation
+# Teste de Automação
 
 Este projeto contém um boilerplate para criar um teste automatizado para o site https://todomvc.com/ usando a biblioteca Playwright em TypeScript.
 
