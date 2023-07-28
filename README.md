@@ -84,6 +84,23 @@ Após a execução do teste automatizado, um relatório em HTML será gerado par
  npx playwright show-report
 ```
 
+## Integração Contínua com GitHub Actions
+
+Este projeto está configurado com o GitHub Actions para automatizar a execução dos testes. Os testes são agendados para serem executados em horários específicos usando uma expressão cron.
+
+### Agenda dos Testes
+
+Os testes serão executados nos seguintes horários todos os dias:
+
+- 9:00 AM
+- 12:00 PM
+- 3:00 PM
+- 6:00 PM
+- 9:00 PM
+
+Para verificar a configuração específica do fluxo de trabalho do GitHub Actions, consulte o arquivo [.github/workflows/test.yml](./.github/workflows/test.yml) neste repositório.
+
+
 
 
 
