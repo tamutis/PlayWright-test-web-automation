@@ -1,6 +1,6 @@
 # Test Automation
 
-Este arquivo README contém um boilerplate para criar um teste automatizado para o site https://todomvc.com/ usando a biblioteca Playwright em TypeScript.
+Este projeto contém um boilerplate para criar um teste automatizado para o site https://todomvc.com/ usando a biblioteca Playwright em TypeScript.
 
 ## Pré-requisitos
 
