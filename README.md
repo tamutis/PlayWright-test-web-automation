@@ -11,6 +11,7 @@ Antes de executar o teste automatizado, você precisa ter instalado o Node.js e 
 - JavaScript
 
 ## Estrutura
+```
 projeto
 │
 ├── node_modules
