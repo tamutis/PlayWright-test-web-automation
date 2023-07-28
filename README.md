@@ -8,7 +8,7 @@ Antes de executar o teste automatizado, você precisa ter instalado o Node.js e 
 
 ## Stack
 - Playwright
-- JavaScript
+- TypeScript
 
 ## Estrutura
 ```
