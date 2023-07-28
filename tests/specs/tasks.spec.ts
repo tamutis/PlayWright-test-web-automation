@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { TasksPage } from '../support/pages/tasksPages';
 import { taskModel } from '../fixture/task.model';
-import data from '/Users/macintosh/Documents/Mottu/test-web-automation/tests/fixture/tasks.json'
+import data from '../../../test-web-automation/tests/fixture/tasks.json'
 
 let tasksPage: TasksPage
 
